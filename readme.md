@@ -9,3 +9,5 @@
 
 Time took to finish this project is 3 hours.
 Took 1 hour to make this page responsive for small screen and medium size screen.
+
+[netlify link](https://live-project-webdesign-page.netlify.app/)
