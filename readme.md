@@ -2,12 +2,14 @@
 
 # Web Design Homepage
 
-### Learnt Concepts
+### Concepts Learnt 
 
 - Using linear gradient to set background color.
 - How to use both flexbox and position properties to set different images inside a container.
 
-Time took to finish this project is 3 hours.
-Took 1 hour to make this page responsive for small screen and medium size screen.
+Time taken to finish this project is 3 hours.
+Took 1 hour to make this page responsive for small,medium and large size screen.
 
 [netlify link](https://live-project-webdesign-page.netlify.app/)
+
+![screen shot](./images/pro-8.png)
